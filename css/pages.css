@@ -1,0 +1,57 @@
+/* Start About Us */
+
+.breadcrumb
+{
+padding:10px 0;	
+margin-bottom:0;
+margin-top:-10px;
+background:#FFF;
+}
+
+.about-us
+{padding:0px 0;}
+.about-us h1
+{
+font-family: 'Raleway', sans-serif;
+letter-spacing:-3px;
+font-size:60px;
+}
+.about-us hr{width:70%;}
+.about-features h4
+{
+font-family: 'Raleway', sans-serif;
+letter-spacing:-1px;	
+}
+.about-features p{margin-bottom:20px;}
+.about-ceo{background:#EEE;}
+.about-ceo img{margin-top:20px;}
+.about-ceo h2{font-family: 'Raleway', sans-serif; letter-spacing:-1px;}
+.about-ceo  .btn-primary{background:#333; border:#333; margin-bottom:20px}
+/* End About Us */
+/* Start AFQ */
+.faq 
+{
+	padding: 30px 0;
+}
+.faq h2
+{
+font-family: 'Raleway', sans-serif;
+letter-spacing: -1px;
+}
+.faq h2 ~ hr
+{
+	width: 70%;
+	color: #333;
+}
+.faq-questions .panel-heading a:after{
+	font-family: 'Glyphicons Halflings';
+	content: "\e252";
+	float:right;
+	color: #333;
+}
+.faq-questions .panel-heading a.collapsed:after{
+	content: "\e080";
+	color: #999;
+}
+/* End AFQ */
+

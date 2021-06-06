@@ -1,0 +1,38 @@
+/**** Start Default Theme ****/
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check
+{
+	background-color:#8e24aa;
+}
+.navbar-inverse .navbar-brand,
+.about h1,
+.faq h2,
+.about-us h1,
+.testimonials span,
+.footer h3,
+.footer .copyright span
+		{	
+		color:#8e24aa;	
+		}
+.option-box .color-option,
+.price_table .price_box:hover p,
+.testimonials .carousel-indicators li.active
+		{
+			border:2px solid #8e24aa;
+		}
+		
+.dropdown-menu
+			{
+			
+			border-top:3px solid #8e24aa;
+		}
+		/* 0895D1; PRO COLOR  */
+		
+		
+		
+/**** End Default Theme ****/
